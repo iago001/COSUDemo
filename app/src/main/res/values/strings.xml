@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">COSU App</string>
+    <string name="start_pinning">Start pinning</string>
+    <string name="stop_pinning">Stop pinning</string>
+    <string name="check_device_owner">Check device owner</string>
+    <string name="title_activity_kiosk">Kiosk Activity</string>
+    <string name="not_lock_whitelisted">App is not a device owner</string>
+    <string name="ending_lock_mode">Ending lock mode</string>
+    <string name="already_device_owner">The app is already the device owner</string>
+    <string name="provisioning_success">Provisioning success</string>
+    <string name="provisioning_failed_or_cancelled">Provisioning failed or user cancelled</string>
+    <string name="remove_device_owner">Remove app as device owner</string>
+    <string name="remove_owner_help"><![CDATA[To enable uninstall, de-activate the app in Settings->Security->Administrators]]></string>
+    <string name="password_prompt">"Enter the password to unlock the device, default: 0000"</string>
+    <string name="wrong_password">Wrong password.</string>
+    <string name="locked">Locked state</string>
+    <string name="pinned">Pinned state</string>
+
+    <string name="accessibility_service_summary">This accessibility service designed to kill system dialog for Screen pinning</string>
+    <string name="accessibility_service_description">This accessibility service designed to kill system dialog for Screen pinning, this is the only things this service is used for.</string>
+</resources>
